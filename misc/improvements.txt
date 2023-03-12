@@ -1,0 +1,5 @@
+Eg: Silk institutes in India
+
+First perform a google search for top articles and Scrap the relevant data ftom that Scrapped data using GPT-2 or Bert Model.
+
+Write Programs in Functional/Modular way

@@ -1,0 +1,23 @@
+Sentence filling is just a part. We can also re-train or fin tune the model . Eg: topic : Hydro dams.
+
+use Bert based model
+OR 
+use transfer learning models itself.
+Use SOTA as well.
+Do record your audio while recording the video.
+
+Even corporate ppl feel new to these technologies. 
+In acad, we learn basics but no applications. In coporate, it's reverse.
+First,e get application and then Basics.
+
+AIM need to be clear. Application first and then Knowledge can be gained,
+like the corporate way !!! 
+
+Develop the Research Attitude.
+Leadership Atitude.
+R&D.
+
+1)semantic (semantics)
+2)syntatic (syntax)
+
+Develop Products for Dummies, for more value and more Reach.
