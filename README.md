@@ -1,5 +1,7 @@
 # Content Generator
-Content Generator is one of the projects developed during RedTron Internship.
+Content Generator is one of the projects developed during RedTron Internship. <br/>
+
+This is a Python codebase for generating new content, which allows for input of a prompt or starting text, and generates new text based on the patterns and language based on scraping techniques. It can be used by users for performing various kinds of searching.
 
 ## Instructions:
 <hr/>
